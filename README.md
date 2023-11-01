@@ -26,7 +26,7 @@ The following Excel features were incorporated.
 ---
 ## Data Acquisition
 
-The dataset was acquired as a CSV file and processed using Microsoft Excel for data cleansing, analysis, and visualization purposes.
+The dataset was acquired from one of the leading online learning platform [Utiva](https://utiva.io/) and processed using Microsoft Excel for data cleansing, analysis, and visualization purposes.
 
 It encompasses four distinct sheets:
 
@@ -35,7 +35,7 @@ It encompasses four distinct sheets:
 3. Products sheet: Containing 47 rows and 3 columns of data.
 4. Store Location sheet: With 367 rows and 15 columns of data.
 ---
-## Data Transformation and Cleansing
+## Data Transformation
 
 Efficient data transformation was carried out using fundamental Excel tools, involving the following steps:
 
